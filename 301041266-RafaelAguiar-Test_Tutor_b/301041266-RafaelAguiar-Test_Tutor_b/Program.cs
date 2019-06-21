@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Web.Script.Serialization;
 using System.IO;
 
-/* COMP123 - Programming2
+/*COMP123 - Programming2
  * 
  * Rafael Aguiar
  * 301041266
