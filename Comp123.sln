@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W5-1-InheritanceDemo", "Wee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W8-1-Lesson8A", "WindowsFormsApp1\W8-1-Lesson8A.csproj", "{5D72D302-B996-4A0E-B768-C2354B836B6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W2-5-Lab5PetDemo2", "W2-5-Lab5PetDemo2\W2-5-Lab5PetDemo2.csproj", "{1324EB87-8573-460D-8EF8-902602492063}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{5D72D302-B996-4A0E-B768-C2354B836B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D72D302-B996-4A0E-B768-C2354B836B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D72D302-B996-4A0E-B768-C2354B836B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1324EB87-8573-460D-8EF8-902602492063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1324EB87-8573-460D-8EF8-902602492063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1324EB87-8573-460D-8EF8-902602492063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1324EB87-8573-460D-8EF8-902602492063}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
